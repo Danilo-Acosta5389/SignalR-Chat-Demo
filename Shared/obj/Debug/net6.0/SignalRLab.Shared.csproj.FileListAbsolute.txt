@@ -1,0 +1,12 @@
+C:\Work\SignalRLab\Shared\bin\Debug\net6.0\SignalRLab.Shared.deps.json
+C:\Work\SignalRLab\Shared\bin\Debug\net6.0\SignalRLab.Shared.dll
+C:\Work\SignalRLab\Shared\bin\Debug\net6.0\SignalRLab.Shared.pdb
+C:\Work\SignalRLab\Shared\obj\Debug\net6.0\SignalRLab.Shared.csproj.AssemblyReference.cache
+C:\Work\SignalRLab\Shared\obj\Debug\net6.0\SignalRLab.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SignalRLab\Shared\obj\Debug\net6.0\SignalRLab.Shared.AssemblyInfoInputs.cache
+C:\Work\SignalRLab\Shared\obj\Debug\net6.0\SignalRLab.Shared.AssemblyInfo.cs
+C:\Work\SignalRLab\Shared\obj\Debug\net6.0\SignalRLab.Shared.csproj.CoreCompileInputs.cache
+C:\Work\SignalRLab\Shared\obj\Debug\net6.0\SignalRLab.Shared.dll
+C:\Work\SignalRLab\Shared\obj\Debug\net6.0\refint\SignalRLab.Shared.dll
+C:\Work\SignalRLab\Shared\obj\Debug\net6.0\SignalRLab.Shared.pdb
+C:\Work\SignalRLab\Shared\obj\Debug\net6.0\ref\SignalRLab.Shared.dll
